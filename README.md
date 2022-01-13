@@ -28,7 +28,7 @@
 - [ ] Demonstração das métricas
 - [ ] Predição
 
-## Linguagens e libs utilizadas
+## Linguagens, libs e recursos utilizados
 
 - [Python](https://www.python.org/)
 - [Kaggle](https://www.kaggle.com/)
