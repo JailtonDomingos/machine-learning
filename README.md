@@ -6,8 +6,11 @@
 > Status do Projeto: :warning: (em desenvolvimento)
 > 
 ### Definição do tema
+- xx
 
 ### Objetivo do projeto
+- Descrever em detalhes o que será desenvolvido
+
 
 ### Especificações técnicas
 - Campos da base de dados
