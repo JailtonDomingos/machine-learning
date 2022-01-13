@@ -49,6 +49,6 @@
 
 ## Licença 
 
-The [MIT License](https://github.com/JailtonDomingos/mbti-personality) (MIT)
+Este projeto está licenciado nos termos da licença MIT.
 
 Copyright :copyright: 2022 - MBTI Personality Detectation
