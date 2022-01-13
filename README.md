@@ -28,6 +28,10 @@
 - [ ] Demonstração das métricas
 - [ ] Predição
 
+## Linguagens e libs utilizadas
+
+- [Python](https://www.python.org/)
+- [Kaggle](https://www.kaggle.com/)
 
 ## Desenvolvedor
 
