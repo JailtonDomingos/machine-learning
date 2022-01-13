@@ -36,6 +36,6 @@
 
 ## Licença 
 
-The [MIT License]() (MIT)
+The [MIT License](https://github.com/JailtonDomingos/mbti-personality) (MIT)
 
 Copyright :copyright: 2022 - MBTI Personality Detectation
