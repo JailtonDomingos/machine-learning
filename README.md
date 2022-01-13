@@ -33,3 +33,9 @@
 
 [<img src="https://avatars.githubusercontent.com/u/31225679?v=4" width=115 > <br> <sub> Jailton Domingos </sub>](https://github.com/JailtonDomingos) |
 | :---: |  
+
+## Licença 
+
+The [MIT License]() (MIT)
+
+Copyright :copyright: 2022 - MBTI Personality Detectation
