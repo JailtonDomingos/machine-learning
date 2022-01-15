@@ -8,9 +8,9 @@
 ### Definição do tema
 *A personalidade ou em outras palavras o conjunto de peculiaridades de um indivíduo são a força ativa do seu ser, esta determina sua individualidade pessoal e social, seu jeito de pensar, agir ou sentir. Estes valores quando usado da maneira correta podem se tornar ferramentas eficazes no meio pessoal e profissional.*
 
-*Os testes psicológicos são ferramentas científicas da área de psicologia que envolvem diversos fatores de análise buscando traçar a personalidade(características) de um indivíduo, seja para o objetivo de auto-conhecimento ou até mesmo o uso desta informação para a busca de uma contratação mais síncrona com os valores de certa empresa.*
+*Os testes psicológicos por sua vez, são ferramentas científicas da área de psicologia que envolvem diversos fatores de análise buscando traçar a personalidade(características) de um indivíduo, seja para o objetivo de auto-conhecimento ou até mesmo o uso desta informação para a busca de uma contratação mais síncrona com os valores de certa empresa.*
 
-*Atualmente a busca de empresas pela aplicação destes testes se tornou etapa fundamental em processos de contratação, pois mesmo não sendo um recurso suficiente para o total conhecimento do indivíduo, os testes permitem à empresa ter uma variável a mais no processo de contratação e somando assim uma vantagem competitiva para seu negócio.*
+*Uma das evoluções da sociedade é a busca das empresas pelos valores gerados com as aplicações dos testes de personalidade. Atualmente a aplicação destes testes se tornaram uma etapa fundamental em processos de contratação, pois mesmo não sendo um recurso suficiente para o total conhecimento do indivíduo, os testes permitem à empresa ter uma variável a mais no processo de contratação e somando assim uma vantagem competitiva para seu negócio.*
 
 *Justamente com este aumento de informações geradas por múltiplos processos de personalidade aplicados, este trabalho irá corporificar o uso de métodos de aprendizado de máquina(Machine Learning) para realizar a identificação dos perfis de indivíduos a partir da resolução do teste de personalidade 'Myers-Briggs Type Indicator(MBTI)'.*
 
