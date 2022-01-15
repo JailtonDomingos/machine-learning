@@ -19,7 +19,7 @@
 
 
 ### Especificações técnicas
-*A base de dados está em formato .CSV e está composta por múltiplas linhas, as quais cada uma representa um indivíduo. Além destas linhas existem duas colunas que são:* 
+*A base de dados está em formato .CSV e está composta por múltiplas linhas, as quais cada uma representa um indivíduo. Dentro destas linhas existem duas colunas que são:* 
 
 - *types: Tipo de personalidade;*
 - *posts: Últimos 50 posts deste indivíduo;*
