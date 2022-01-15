@@ -16,7 +16,7 @@
 
 
 ### Objetivo do projeto
-*Este trabalho tem como objetivo aplicar algoritmos de aprendizado de máquina(Machine Learning) para a identificar os perfis de indivíduos após terem completado o questionário de personalidade MBTI.*
+*Este estudo terá como objetivo a aplicação de algoritmos de aprendizado de máquina para classificação de perfis a partir de uma base de dados com múltiplas  aplicações do teste de personalidade 'MBTI' armazenadas*
 
 
 ### Especificações técnicas
