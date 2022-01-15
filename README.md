@@ -6,7 +6,7 @@
 > Status do Projeto: :warning: (em desenvolvimento)
 > 
 ### Definição do tema
-*A personalidade ou em outras palavras o conjunto de peculiaridades de um indivíduo são a força ativa do seu ser, esta determina sua individualidade pessoal e social, seu jeito de pensar, agir ou sentir. Estes valores quando usado da maneira correta podem se tornar ferramentas eficazes no meio pessoal e profissional.*
+*A personalidade ou em outras palavras o conjunto de peculiaridades de um indivíduo são a força ativa do seu ser, esta determina sua individualidade pessoal e social, seu jeito de pensar, agir ou sentir. Estes valores quando usado da maneira correta podem se tornar ferramentas eficazes para o desenvolvimento humano no meio pessoal e profissional.*
 
 *Os testes psicológicos por sua vez, são ferramentas científicas da área de psicologia que envolvem diversos fatores de análise buscando traçar a personalidade(características) de um indivíduo, seja para o objetivo de auto-conhecimento ou até mesmo o uso desta informação para a busca de uma contratação mais síncrona com os valores de certa empresa.*
 
