@@ -6,6 +6,8 @@
 > Status do Projeto: :warning: (em desenvolvimento)
 > 
 ### Definição do tema
+*No mundo contemporâneo a informação é ouro pois ela da muitos poderes ao proprietário e um exemplo é a identificação de personalidade juntamente com o marketing digital aplicado e direcionado corretamente para os perfis certos, assim aumentando exponencialmente o efeito do marketing sobre a população.*
+
 *Os testes psicológicos são ferramentas científicas da área de psicologia que envolvem diversos fatores de análise buscando traçar a personalidade(características) de um indivíduo, seja para o objetivo de auto-conhecimento ou até mesmo o uso desta informação para a busca de uma contratação mais síncrona com os valores de certa empresa.*
 
 *Atualmente a busca de empresas pela aplicação destes testes se tornou etapa fundamental em processos de contratação, pois mesmo não sendo um recurso suficiente para o total conhecimento do indivíduo, os testes permitem à empresa ter uma variável a mais no processo de contratação e somando assim uma vantagem competitiva para seu negócio.*
