@@ -24,9 +24,10 @@
 - *types: Tipo de personalidade;*
 - *posts: Últimos 50 posts deste indivíduo;*
 
+*O dataset pode ser encontrado em: < https://www.kaggle.com/datasnaek/mbti-type >*
+
 *Este dataset contém apenas 8675 linhas de dados textuais, os quais necessitam do tratamento de dados por incorporarem caracteres especiais, links e emojis.*
 
-- Tipos dos dados utilizados
 - Métodos de Machine Learning utilizados
 - Como a base de dados será dividida
 - Métricas de avaliação utilizadas
