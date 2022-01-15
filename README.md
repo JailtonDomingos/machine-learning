@@ -6,19 +6,26 @@
 > Status do Projeto: :warning: (em desenvolvimento)
 > 
 ### Definição do tema
-*A personalidade ou em outras palavras o conjunto de peculiaridades de um indivíduo são a força ativa do seu ser, esta determina sua individualidade pessoal e social, seu jeito de pensar, agir ou sentir. Estes valores quando usado da maneira correta podem se tornar ferramentas eficazes para o desenvolvimento humano no meio pessoal e profissional.*
+*A personalidade ou em outras palavras o conjunto de peculiaridades de um indivíduo são a força ativa do seu ser, esta determina sua individualidade pessoal e social, seu jeito de pensar, agir ou sentir. Estes valores quando usado da maneira correta podem se tornar ferramentas eficazes no meio pessoal e profissional.*
 
-*Os testes psicológicos por sua vez, são ferramentas científicas da área de psicologia que envolvem diversos fatores de análise buscando traçar a personalidade(características) de um indivíduo, seja para o objetivo de auto-conhecimento ou até mesmo o uso desta informação para a busca de uma contratação mais síncrona com os valores de certa empresa.*
+*Os testes psicológicos por sua vez, são ferramentas científicas da área de psicologia que envolvem diversos fatores de análise buscando traçar a personalidade(características) de um indivíduo, seja para o objetivo de auto-conhecimento, o uso desta informação para a busca de uma contratação mais síncrona com os valores de certa empresa ou até mesmo para direcionar serviços e produtos para um público alvo, assim adicionando uma variável significativa para a competitividade do negócio.*
 
-*Uma das evoluções da sociedade é a busca das empresas pelos valores gerados com as aplicações dos testes de personalidade. Atualmente a aplicação destes testes se tornaram uma etapa fundamental em processos de contratação, pois mesmo não sendo um recurso suficiente para o total conhecimento do indivíduo, os testes permitem à empresa ter uma variável a mais no processo de contratação e somando assim uma vantagem competitiva para seu negócio.*
+*Atualmente as empresas estão buscando cada vez mais pela identificação das preferências do seu público alvo e com o passar do tempo os aprimoramentos da tecnologia aliviam o processo humano para uma forma aprimorada de classificação e identificação de perfis dos indivíduos, usando do beneficio da expansão do mundo digital e o mar de informações aumentando dia após dia.*
 
-*Justamente com este aumento de informações geradas por múltiplos processos de personalidade aplicados, este trabalho irá corporificar o uso de métodos de aprendizado de máquina(Machine Learning) para realizar a identificação dos perfis de indivíduos a partir da resolução do teste de personalidade 'Myers-Briggs Type Indicator(MBTI)'.*
+*Justamente com este aumento de informações geradas pela rede mundial de computadores, este trabalho irá corporificar o uso de métodos de aprendizado de máquina(Machine Learning) para realizar a identificação e classificação dos perfis de indivíduos com base nos seus últimos 50 posts e utilizando a tipologia de personalidade 'Myers-Briggs Type Indicator(MBTI)' como indicador.*
 
 ### Objetivo do projeto
-*Este estudo terá como objetivo a aplicação de algoritmos de aprendizado de máquina para classificação de perfis a partir de uma base de dados com múltiplas  aplicações do teste de personalidade 'MBTI' armazenadas*
+*O objetivo deste estudo é a aplicação de algoritmos de aprendizados de máquina para classificação da personalidade do indivíduo com base nos seus últimos registros escritos.*
+
 
 ### Especificações técnicas
-- Campos da base de dados
+*A base de dados está em formato .CSV e está composta por múltiplas linhas, as quais cada uma representa um indivíduo. Além destas linhas existem duas colunas que são:* 
+
+- *types: Tipo de personalidade;*
+- *posts: Últimos 50 posts deste indivíduo;*
+
+*Este dataset contém apenas 8675 linhas de dados textuais, os quais necessitam do tratamento de dados por incorporarem caracteres especiais, links e emojis.*
+
 - Tipos dos dados utilizados
 - Métodos de Machine Learning utilizados
 - Como a base de dados será dividida
