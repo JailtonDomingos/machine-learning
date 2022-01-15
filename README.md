@@ -14,10 +14,8 @@
 
 *Justamente com este aumento de informações geradas por múltiplos processos de personalidade aplicados, este trabalho irá corporificar o uso de métodos de aprendizado de máquina(Machine Learning) para realizar a identificação dos perfis de indivíduos a partir da resolução do teste de personalidade 'Myers-Briggs Type Indicator(MBTI)'.*
 
-
 ### Objetivo do projeto
 *Este estudo terá como objetivo a aplicação de algoritmos de aprendizado de máquina para classificação de perfis a partir de uma base de dados com múltiplas  aplicações do teste de personalidade 'MBTI' armazenadas*
-
 
 ### Especificações técnicas
 - Campos da base de dados
