@@ -16,7 +16,7 @@
 
 
 ### Objetivo do projeto
-- Descrever em detalhes o que será desenvolvido
+*Este trabalho tem como objetivo aplicar algoritmos de aprendizado de máquina(Machine Learning) para a identificar os perfis de indivíduos após terem completado o questionário de personalidade MBTI.*
 
 
 ### Especificações técnicas
