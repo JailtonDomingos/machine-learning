@@ -6,7 +6,12 @@
 > Status do Projeto: :warning: (em desenvolvimento)
 > 
 ### Definição do tema
-- xx
+*Os testes psicológicos são ferramentas científicas da área de psicologia que envolvem diversos fatores de análise buscando traçar a personalidade(características) de um indivíduo, seja para o objetivo de auto-conhecimento ou até mesmo o uso desta informação para a busca de uma contratação mais síncrona com os valores de certa empresa.*
+
+*Atualmente a busca de empresas pela aplicação destes testes se tornou etapa fundamental em processos de contratação, pois mesmo não sendo um recurso suficiente para o total conhecimento do indivíduo, os testes permitem à empresa ter uma variável a mais no processo de contratação e somando assim uma vantagem competitiva para seu negócio.*
+
+*Justamente com este aumento de informações geradas por múltiplos processos de personalidade aplicados, este trabalho irá corporificar o uso de métodos de aprendizado de máquina(Machine Learning) para realizar a identificação dos perfis de indivíduos a partir da resolução do teste de personalidade 'Myers-Briggs Type Indicator(MBTI)'.*
+
 
 ### Objetivo do projeto
 - Descrever em detalhes o que será desenvolvido
