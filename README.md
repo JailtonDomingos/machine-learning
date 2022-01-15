@@ -6,7 +6,7 @@
 > Status do Projeto: :warning: (em desenvolvimento)
 > 
 ### Definição do tema
-*No mundo contemporâneo a informação é ouro pois ela da muitos poderes ao proprietário e um exemplo é a identificação de personalidade juntamente com o marketing digital aplicado e direcionado corretamente para os perfis certos, assim aumentando exponencialmente o efeito do marketing sobre a população.*
+*A personalidade ou em outras palavras o conjunto de peculiaridades de um indivíduo são a força ativa do seu ser, esta determina sua individualidade pessoal e social, seu jeito de pensar, agir ou sentir. Estes valores quando usado da maneira correta podem se tornar ferramentas eficazes no meio pessoal e profissional.*
 
 *Os testes psicológicos são ferramentas científicas da área de psicologia que envolvem diversos fatores de análise buscando traçar a personalidade(características) de um indivíduo, seja para o objetivo de auto-conhecimento ou até mesmo o uso desta informação para a busca de uma contratação mais síncrona com os valores de certa empresa.*
 
