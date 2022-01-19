@@ -55,7 +55,8 @@
 - [Python](https://www.python.org/)
 - [Kaggle](https://www.kaggle.com/)
 - [Kaggle Database](https://www.kaggle.com/datasnaek/mbti-type)
-- [Personality explanation](https://www.verywellmind.com/what-is-personality-testing-2795420)
+- [Personality Explanation](https://www.verywellmind.com/what-is-personality-testing-2795420)
+- [Personality Article]()
 
 ## Desenvolvedor
 
