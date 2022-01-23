@@ -52,6 +52,12 @@
 
 ## Linguagens, libs e recursos utilizados
 
+- [Python](https://www.python.org/)
+- [Kaggle](https://www.kaggle.com/)
+- [Kaggle Database](https://www.kaggle.com/datasnaek/mbti-type)
+- [Personality Explanation](https://www.verywellmind.com/what-is-personality-testing-2795420)
+- [Personality Explanation 2](https://www.quickin.io/2021/04/22/teste-mbti-para-que-serve-e-como-usar/)
+- [The Cult of Personality Testing Book](https://books.google.com.br/books?id=Njh9KgwSjs0C&dq=%22Personality+tests%22&lr=&hl=pt-BR&source=gbs_navlinks_s)
 - 
 
 ## Desenvolvedor
