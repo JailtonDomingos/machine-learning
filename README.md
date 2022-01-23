@@ -24,7 +24,7 @@
 - *types: Tipo de personalidade;*
 - *posts: Últimos 50 posts deste indivíduo;*
 
-*O dataset pode ser encontrado em: < https://www.kaggle.com/datasnaek/mbti-type >*
+*O dataset que será utilizado pode ser encontrado em: < https://www.kaggle.com/datasnaek/mbti-type >*
 *Existe um Database maior que pode ser encontrado em: < https://zenodo.org/record/1323873#.YezB2PXMLx5 >*
 
 *Este dataset contém apenas 8675 linhas de dados textuais, os quais necessitam do tratamento de dados por incorporarem caracteres especiais, links e emojis.*
