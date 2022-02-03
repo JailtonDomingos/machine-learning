@@ -1,3 +1,5 @@
 25/01/2022 - O algoritomo de treinamento está sendo executado via google cloud
 
 26/01/2022 - O algoritmo de erro 3 vezes, foi corrigido e vou deixar executando esta noite;
+
+02/02/2022 - A parte de treinamento da base 500k não foi executada devido a errors no pré-processamento;
