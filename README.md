@@ -31,17 +31,22 @@
 *Este dataset contém apenas 8675 linhas de dados textuais, os quais necessitam do tratamento de dados por incorporarem caracteres especiais, links e emojis.*
 
 - Métodos de Machine Learning utilizados
-  - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  - ???
   
 - Como a base de dados será dividida
-  - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  - ???
 
 - Métricas de avaliação utilizadas
-  - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  - ???
 
 ### Preparação dos dados
 - Aplicação dos métodos de pré-processamento
-  - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  - O dataset utilizado contém dados textuais, por esse motivo, ocorrerá os seguinters processos de pré-processamento:
+    - Adequação e formatação dos dados.
+    - Limpeza da base, onde serão removidos termos de divisória dos dados, remoção de espaços em branco e remoção de caracteres especiais.
+    - Remoção de stop-words: Remover as ditas palavras de parada, como uma forma de otimizar o desempenho dos algoritmos
+
+- Tarefa de Aprendizado: O dataset utilizado se trata de dados textuais que corporificam classes para pessoas, com isto, será utilizada a tarefa de Classificação.
 - Distribuição dos dados
   - Treino/teste e cross-validation
 
