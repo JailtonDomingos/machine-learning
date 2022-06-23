@@ -41,7 +41,7 @@
 
 ### Preparação dos dados
 - Aplicação dos métodos de pré-processamento
-  - O dataset utilizado contém dados textuais, por esse motivo, ocorrerá os seguinters processos de pré-processamento:
+  - O dataset utilizado contém dados textuais, por esse motivo, ocorrerá os seguintes processos de pré-processamento:
     - Adequação e formatação dos dados.
     - Limpeza da base, onde serão removidos termos de divisória dos dados, remoção de espaços em branco e remoção de caracteres especiais.
     - Remoção de stop-words: Remover as ditas palavras de parada, como uma forma de otimizar o desempenho dos algoritmos
